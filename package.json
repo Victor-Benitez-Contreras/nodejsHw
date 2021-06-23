@@ -1,0 +1,21 @@
+{
+  "name": "helloworld-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-Benitez-Contreras/nodejsHw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor-Benitez-Contreras/nodejsHw/issues"
+  },
+  "homepage": "https://github.com/Victor-Benitez-Contreras/nodejsHw#readme"
+}
